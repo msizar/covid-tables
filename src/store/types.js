@@ -1,0 +1,8 @@
+// DATA ACTIONS
+export const GET_ALL_DATA = 'GET_ALL_DATA';
+export const GET_SUMMARY_DATA = 'GET_SUMMARY_DATA';
+export const CLEAR_DATA = 'CLEAR_DATA';
+
+//LOADING ACTIONS
+export const START_LOADING = 'START_LOADING';
+export const STOP_LOADING = 'STOP_LOADING';

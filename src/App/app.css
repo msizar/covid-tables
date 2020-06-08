@@ -1,0 +1,21 @@
+.app {
+  text-align: center;
+  height: 100%;
+}
+
+.title {
+  color: black;
+}
+
+.app-body {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+}
+
+img {
+  width: 100px;
+}
